@@ -1,6 +1,8 @@
 /*
  * Driver class for DVD class (DVD.java)
  */
+package dev;
+
 public class DVDTestDrive {
 	public static void main(String[] args) {
 		String inputTitle = "DVDTitle";
